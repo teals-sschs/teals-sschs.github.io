@@ -1,54 +1,49 @@
-# Harmony Jekyll theme general configurations 
+# Harmony Jekyll theme general configurations
 
 # Base URL
-baseurl: /harmony
+baseurl:
 
 # Site live URL
-url: http://gayan.me
-
-# Localhost 
-# url: http://127.0.0.1:4000  
+url: http://teals-sschs.com
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: Harmony
+  name: TEALS
   # Little description about your site
-  description: Harmony is free responsive jekyll theme.
+  description: Computer Science in Every School
   # 'meta_description:' Write an awesome description for your new site here.
-  # It will appear in your document head meta (for Google search results) and 
+  # It will appear in your document head meta (for Google search results) and
   # in your feed.xml site description.
-  meta_description: > # 
-   Harmony is a free responsive jekyll theme by Gayan Virajith
-   and Maheshika Lakmali. Source code available at 
-   https://github.com/gayanvirajith/harmony
+  meta_description: > #
+   TEALS Introduction to Computer Science at Science Skills Center HS
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
-    name: Gayan Virajith
-    email: gayanvirajith@gmail.com
-    url: http://gayanvirajith.github.io
+    name: Ben Cohen
+    email: ben@cohen-family.org
+    url: http://bencohen.cc
 
   # Google Analytics key, leave blank to ignore
-  google_analytics_key: UA-xxxx-x
+  google_analytics_key:
 
   # Profile links, leave blank to ignore
-  social: 
-    github: gayanvirajith
-    twitter: gayanvirajith
-    facebook: gayanvirajith
-    gplus: +GayanVirajith
-    dribble: gayan
-    pinterest: 
+  social:
+    github:
+    twitter:
+    facebook:
+    gplus:
+    dribble:
+    pinterest:
   # Toggle disclaimer in footer
   show_disclaimer: true
 
-# Conversion / Build settings 
+# Conversion / Build settings
 markdown:    kramdown
 highlighter: pygments # this is how you put pygments config in jekyll 2.0 instead of pygments: true
 
 # Permalinks
 permalink:        pretty
 
-exclude: 
+exclude:
   - CNAME
   - Gemfile
   - Rakefile

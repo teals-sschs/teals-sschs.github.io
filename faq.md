@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Help / FAQ
+title: FAQ
 ---
 
-What is harmony?
-: Harmony is a free jekyll theme, for bloggers who love jekyll. Designed and build by [Gayan Virajith](http://gayanvirajith.github.io) & [Maheshika Lakmali](http://maheshikalakmali.github.io). 
+Who are you?
+: Just a guy who wants to help kids learn how to CS.
 
-Why are you doing this?
-: For experience! Free resources are always good way to learn what you love, also help us to produce good digital work and it might end up being useful to someone.
+What is TEALS?
+: Just think of us as the Derek Zoolander school for kids who can't computer good and
+want to learn to do other stuff good too.
 
-Well, still have something in your mind?
-: Please drop a line to [gayanvirajith@gmail.com](gayanvirajith@gmail.com) or an [issue](https://github.com/gayanvirajith/harmony/issues/new) on Github, I am glad to response.
-
+This FAQ is pretty useless
+: Yup, sorry I'm not sorry.

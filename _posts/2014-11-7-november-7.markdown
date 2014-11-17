@@ -1,0 +1,11 @@
+---
+layout: post
+title: "November 7, 2014"
+date: 2014-11-06 10:00:00
+categories:
+- blog
+---
+
+[Scaffolded Code for Lab](http://snap.berkeley.edu/snapsource/snap.html#present:Username=Airswoop1&ProjectName=Lab_11072014_Code)
+
+[Costumes for Lab](https://ben-cohen-e957.squarespace.com/s/MegamanSprites.zip)

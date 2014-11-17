@@ -1,0 +1,9 @@
+---
+layout: post
+title: "November 5"
+date: 2014-11-4 10:00:00
+categories:
+- blog
+---
+
+Assignment Submissions: [http://goo.gl/forms/mbbo4M574P](http://goo.gl/forms/mbbo4M574P)

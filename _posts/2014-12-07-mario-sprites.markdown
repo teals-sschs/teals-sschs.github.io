@@ -1,5 +1,5 @@
 ---
-Mayout: post
+layout: post
 title: "Mario Sprite Pac"
 date: 2014-12-07 11:26:00
 categories:
@@ -7,3 +7,4 @@ categories:
 ---
 [Mario Sprite Pack](https://drive.google.com/open?id=0B4lRQHubpbniTHUtNENLOGthd2M&authuser=0)
 
+[Submission Link](http://goo.gl/forms/Lir6FcEb0D)

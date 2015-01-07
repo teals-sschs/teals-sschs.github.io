@@ -7,3 +7,5 @@ categories:
 ---
 
 [Starter Code](https://snap.berkeley.edu/snapsource/snap.html#present:Username=bjcohen&ProjectName=RPS)
+
+[Handin Link](http://goo.gl/forms/Wzv5YUQYTw)

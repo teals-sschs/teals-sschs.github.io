@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Megaman"
+date: 2015-02-13 10:00:00
+categories:
+- blog
+---
+
+[Megaman Lab Instructions](https://docs.google.com/presentation/d/1NYwHM2Lrlg_gIkG6Lwa5fBFioF9oFgSLpuG1TPlKBPY/edit?usp=sharing)
